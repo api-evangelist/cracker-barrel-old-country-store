@@ -1,7 +1,11 @@
 aid: cracker-barrel-old-country-store
-url: https://raw.githubusercontent.com/api-evangelist/cracker-barrel-old-country-store/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/cracker-barrel-old-country-store/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.cracker-barrel-old-country-store.com
+description: >-
+  Cracker Barrel Old Country Store is a chain of restaurants and gift shops with a
+  southern country theme offering home-style meals and unique gift items.
