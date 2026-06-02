@@ -5,16 +5,18 @@ description: >-
   Cracker Barrel Old Country Store, Inc. is an American chain of restaurants
   and gift shops with a Southern country theme, offering home-style meals and
   retail merchandise. Founded in 1969 and headquartered in Lebanon, Tennessee,
-  Cracker Barrel operates more than 660 locations across the United States.
-  No public API or developer portal is published; the company offers a website,
-  mobile ordering app, and Cracker Barrel Rewards loyalty program for guests.
+  Cracker Barrel operates roughly 656 restaurant and retail locations across 44
+  U.S. states. No public API or developer portal is published; the company
+  offers a consumer website, iOS and Android mobile ordering apps, To-Go and
+  catering ordering, gift cards, and the Cracker Barrel Rewards loyalty program
+  for guests.
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 url: https://raw.githubusercontent.com/api-evangelist/cracker-barrel-old-country-store/refs/heads/main/apis.yml
 type: Index
 access: 3rd-Party
 position: Consuming
 created: '2024-01-01'
-modified: '2026-04-28'
+modified: '2026-06-02'
 tags:
   - Country Store
   - Dining
@@ -30,25 +32,42 @@ common:
   - type: Website
     url: https://www.crackerbarrel.com/
   - type: AboutUs
-    url: https://www.crackerbarrel.com/about-us
+    url: https://www.crackerbarrel.com/about
   - type: InvestorRelations
     url: https://investor.crackerbarrel.com/
   - type: Careers
     url: https://careers.crackerbarrel.com/
   - type: ContactUs
-    url: https://www.crackerbarrel.com/contact-us
+    url: https://www.crackerbarrel.com/Connect/Contact-Us
+  - type: Support
+    title: Guest Relations
+    url: https://guestrelations.crackerbarrel.com/s/
   - type: OnlineOrdering
-    url: https://www.crackerbarrel.com/online-ordering
+    title: To-Go Ordering
+    url: https://www.crackerbarrel.com/to-go
+  - type: OnlineOrdering
+    title: Catering
+    url: https://www.crackerbarrel.com/catering
   - type: RewardsProgram
     url: https://www.crackerbarrel.com/rewards
   - type: GiftCards
-    url: https://www.crackerbarrel.com/gift-cards
+    url: https://guestrelations.crackerbarrel.com/s/article/Gift-Cards
+  - type: ProductsAndServices
+    url: https://www.crackerbarrel.com/products-and-services
+  - type: MobileApp
+    title: iOS App
+    url: https://apps.apple.com/us/app/cracker-barrel/id390165371
+  - type: MobileApp
+    title: Android App
+    url: https://play.google.com/store/apps/details?id=com.crackerbarrel.app
   - type: Newsroom
     url: https://www.crackerbarrel.com/newsroom
+  - type: Blog
+    url: https://blog.crackerbarrel.com/
   - type: PrivacyPolicy
-    url: https://www.crackerbarrel.com/privacy-policy
+    url: https://www.crackerbarrel.com/privacy
   - type: TermsAndConditions
-    url: https://www.crackerbarrel.com/terms-conditions
+    url: https://www.crackerbarrel.com/terms-of-use
   - type: LinkedIn
     url: https://www.linkedin.com/company/cracker-barrel
   - type: Facebook
