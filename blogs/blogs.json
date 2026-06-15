@@ -1,0 +1,21 @@
+{
+  "repo": "cracker-barrel-old-country-store",
+  "feeds": [
+    {
+      "source": "https://blog.crackerbarrel.com/feed/",
+      "feed_url": "https://blog.crackerbarrel.com/feed/",
+      "title": "",
+      "saved": 1,
+      "method": "feed"
+    },
+    {
+      "source": "https://www.crackerbarrel.com/newsroom",
+      "feed_url": "https://www.crackerbarrel.com/newsroom",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 1,
+  "fetched": "2026-06-14T20:42:17Z"
+}
