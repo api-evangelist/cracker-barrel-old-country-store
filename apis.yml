@@ -10,7 +10,7 @@ description: >-
   offers a consumer website, iOS and Android mobile ordering apps, To-Go and
   catering ordering, gift cards, and the Cracker Barrel Rewards loyalty program
   for guests.
-image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: https://raw.githubusercontent.com/api-evangelist/cracker-barrel-old-country-store/refs/heads/main/apis.yml
 type: Index
 access: 3rd-Party
