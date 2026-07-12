@@ -30,6 +30,8 @@ tags:
   - Fortune 1000
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/cracker-barrel-old-country-store-domain-security.yml
   - type: Website
     url: https://www.crackerbarrel.com/
   - type: AboutUs
