@@ -10,6 +10,17 @@ description: >-
   offers a consumer website, iOS and Android mobile ordering apps, To-Go and
   catering ordering, gift cards, and the Cracker Barrel Rewards loyalty program
   for guests.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 specificationVersion: '0.23'
 accessModel:
   pricing: unknown
