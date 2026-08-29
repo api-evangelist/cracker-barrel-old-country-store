@@ -35,6 +35,9 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/cracker-barrel-old-country-store.png
 url: https://raw.githubusercontent.com/api-evangelist/cracker-barrel-old-country-store/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "No public API or developer portal is published; the company offers a consumer website, iOS and Android mobile ordering apps, To-Go and catering ordering, gift cards, and the Cracker Barrel Rewards loy"
 type: Index
 access: 3rd-Party
 position: Consuming
