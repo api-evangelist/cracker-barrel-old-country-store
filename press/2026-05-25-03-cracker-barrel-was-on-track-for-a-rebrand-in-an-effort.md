@@ -1,7 +1,9 @@
 ---
 title: Cracker Barrel was on track for a rebrand in an effort ...
 url: https://www.facebook.com/NBC4Columbus/posts/cracker-barrel-was-on-track-for-a-rebrand-in-an-effort-to-make-its-old-country-s/1237633575077559/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Cracker Barrel Old Country Store" press release artificial intelligence'
 position: 3
 source: serpapi-google

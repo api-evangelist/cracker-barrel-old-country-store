@@ -1,7 +1,9 @@
 ---
 title: The Cracker Barrel Mess Isn't Over Yet
 url: https://www.wsj.com/business/the-cracker-barrel-logo-mess-c57d23e8
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Cracker Barrel Old Country Store" press release artificial intelligence'
 position: 5
 source: serpapi-google
