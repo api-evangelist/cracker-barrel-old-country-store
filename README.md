@@ -1,4 +1,4 @@
-# Cracker Barrel Old Country Store (cracker-barrel-old-country-store)
+# Cracker Barrel Old Country Store
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,55 +66,80 @@
 
 Cracker Barrel Old Country Store, Inc. is an American chain of restaurants and gift shops with a Southern country theme, offering home-style meals and retail merchandise. Founded in 1969 and headquartered in Lebanon, Tennessee, Cracker Barrel operates roughly 656 restaurant and retail locations across 44 U.S. states. No public API or developer portal is published; the company offers a consumer website, iOS and Android mobile ordering apps, To-Go and catering ordering, gift cards, and the Cracker Barrel Rewards loyalty program for guests.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/cracker-barrel-old-country-store/refs/heads/main/apis.yml)
+**Areas:** Country Store · Dining · Family Dining · Gift Shops · Loyalty Programs · Mobile Ordering · Restaurant · Retail · Southern Cuisine · Fortune 1000
 
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=company-api-evangelist&utm_content=repo)
+## Cracker Barrel Old Country Store on APIs.io
 
-## Scope
+Everything profiled for Cracker Barrel Old Country Store is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cracker-barrel-old-country-store/](https://apis.io/providers/cracker-barrel-old-country-store/)** — or go straight to one of the APIs or properties below.
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
-- **x-type:** company
+### Published properties
 
-## Tags
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- Country Store, Dining, Family Dining, Gift Shops, Loyalty Programs, Mobile Ordering, Restaurants, Retail, Southern Cuisine
+#### Security (1)
 
-## Timestamps
+Authentication, trust centre, and vulnerability disclosure.
 
-- **Created:** 2024-01-01
-- **Modified:** 2026-06-02
+- [Cracker Barrel Old Country Store Domain Security](https://apis.io/security/cracker-barrel-old-country-store/cracker-barrel-old-country-store-domain-security/)
 
-## APIs
+## Where to find this API
 
-No public API or developer portal is currently published. Cracker Barrel is a consumer-facing restaurant and retail company; guest interaction happens through its website, mobile apps, To-Go and catering ordering, and the Cracker Barrel Rewards loyalty program. No machine-readable API artifacts (OpenAPI, AsyncAPI, JSON Schema, CRDs, MCP servers, or Claude Code skills) were found in this profiling pass.
-
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.crackerbarrel.com/)
-- [About Us](https://www.crackerbarrel.com/about)
-- [Investor Relations](https://investor.crackerbarrel.com/)
-- [Careers](https://careers.crackerbarrel.com/)
-- [Contact Us](https://www.crackerbarrel.com/Connect/Contact-Us)
-- [Guest Relations (Support)](https://guestrelations.crackerbarrel.com/s/)
-- [To-Go Ordering](https://www.crackerbarrel.com/to-go)
-- [Catering](https://www.crackerbarrel.com/catering)
-- [Rewards Program](https://www.crackerbarrel.com/rewards)
-- [Gift Cards](https://guestrelations.crackerbarrel.com/s/article/Gift-Cards)
-- [Products and Services](https://www.crackerbarrel.com/products-and-services)
-- [iOS App](https://apps.apple.com/us/app/cracker-barrel/id390165371)
-- [Android App](https://play.google.com/store/apps/details?id=com.crackerbarrel.app)
-- [Newsroom](https://www.crackerbarrel.com/newsroom)
+- [Support](https://guestrelations.crackerbarrel.com/s/)
 - [Blog](https://blog.crackerbarrel.com/)
-- [Privacy Policy](https://www.crackerbarrel.com/privacy)
-- [Terms and Conditions](https://www.crackerbarrel.com/terms-of-use)
-- [LinkedIn](https://www.linkedin.com/company/cracker-barrel)
-- [Facebook](https://www.facebook.com/crackerbarrel)
-- [Instagram](https://www.instagram.com/crackerbarrel/)
+- [Privacy policy](https://www.crackerbarrel.com/privacy)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 7.6** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 9.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/cracker-barrel-old-country-store/](https://apis.io/providers/cracker-barrel-old-country-store/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Cracker Barrel Old Country Store: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cracker-barrel-old-country-store/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
